@@ -1,6 +1,6 @@
 
-export let name: string = 'Fernando';
-export const age: number = 35;
+export let name: string = 'Daniel';
+export const age: number = 22;
 export const isValid: boolean = true;
 
 name = 'Melissa';
